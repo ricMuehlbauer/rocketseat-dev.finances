@@ -1,2 +1,3 @@
 # rocketseat-dev.finances
-Dev.finances project from Rocketseat Discovery Module.
+
+Dev.finances project from Rocketseat Discover Marathon.
